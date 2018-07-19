@@ -6,8 +6,8 @@
   "main": "index.js",
   "repository": "SydneyUniLibrary/sierra-db-as-promised",
   "dependencies": {
-    "dotenv": "^4.0.0",
-    "pg-promise": "^6.3.6"
+    "dotenv": "^6.0.0",
+    "pg-promise": "^8.4.3"
   },
   "engines": {
     "node": ">=8.0.0"
