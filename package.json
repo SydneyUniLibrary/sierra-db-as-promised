@@ -1,6 +1,6 @@
 {
   "name": "@sydneyunilibrary/sierra-db-as-promised",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simplifies getting a pg-promise Database object set up for connecting to a Sierra database, using environment variables for the connection settings.",
   "license": "GPL-3.0",
   "main": "index.js",

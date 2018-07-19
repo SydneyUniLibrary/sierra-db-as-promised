@@ -11,7 +11,7 @@ Sierra database, using environment variables for the connection settings.
 ## How to use
 
 ```
-npm install 'SydneyUniLibrary/sierra-db-as-promised#v1'
+npm install 'SydneyUniLibrary/sierra-db-as-promised#v2.0.0'
 ```
 
 Create a .env file in the root directory of your project, like the following.
